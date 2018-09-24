@@ -1,0 +1,5 @@
+Andriy 12
+Pavlo 9
+Afanasiy 5
+Petro 5
+Oleh 1

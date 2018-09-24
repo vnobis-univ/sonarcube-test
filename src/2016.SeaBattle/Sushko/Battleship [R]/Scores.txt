@@ -1,0 +1,12 @@
+ HelloWorld 5
+ Matviy 3
+ Gerasim 1
+ gogogo 1
+
+ Bodya 4
+ Pavel 2
+ null 1
+
+ Kate 5
+ nub 3
+ nnnnn 1

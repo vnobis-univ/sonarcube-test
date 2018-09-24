@@ -1,0 +1,10 @@
+Player1 70
+Player2 60
+Player3 50
+Player4 45
+Unknown 45
+Player5 44
+Player6 40
+Ika 35
+MightyWarrior 35
+Unknown 35

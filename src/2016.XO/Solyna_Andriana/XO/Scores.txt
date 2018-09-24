@@ -1,0 +1,5 @@
+Khal  11
+JohnSnow  8
+NedStark  7
+Khaleesi  6
+HarryPotter  5

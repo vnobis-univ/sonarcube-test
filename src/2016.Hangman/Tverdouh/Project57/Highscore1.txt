@@ -1,0 +1,9 @@
+fd 34
+fdf 4
+rgfg 5
+rgfg 6
+gfg 3
+fdef 0
+fdfdg 0
+fdf 0
+vdf 0

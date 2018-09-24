@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\ConsoleUtils">
+      <UniqueIdentifier>{bce9e13f-2248-4767-b12b-d8e4c2fcb4a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ConsoleUtils">
+      <UniqueIdentifier>{c2e9396f-8971-4fd5-95e1-05b26c2d537d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Views">
+      <UniqueIdentifier>{b9fee1ff-895a-473b-bd1d-ae61dd907e44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Views">
+      <UniqueIdentifier>{b2834126-fa0d-4959-beb0-bf8f353aba2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ControllerUtils">
+      <UniqueIdentifier>{95e4d08e-3ac4-4fba-85e9-bae0637522e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ControllerUtils">
+      <UniqueIdentifier>{bdd035b3-4bae-4bd8-bc3b-ea83ad0e001e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Printer.cpp">
+      <Filter>Source Files\ConsoleUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleUtils.cpp">
+      <Filter>Source Files\ConsoleUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionSelector.cpp">
+      <Filter>Source Files\ControllerUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="HangedManDrawer.cpp">
+      <Filter>Source Files\ConsoleUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="HScoresView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="HScoreFileManager.cpp">
+      <Filter>Source Files\ControllerUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="Alphabet.cpp">
+      <Filter>Source Files\ControllerUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="WordGetter.cpp">
+      <Filter>Source Files\ControllerUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="WordHandler.cpp">
+      <Filter>Source Files\ControllerUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="GameView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Printer.h">
+      <Filter>Header Files\ConsoleUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files\ConsoleUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleUtils.h">
+      <Filter>Header Files\ConsoleUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="HangedManDrawer.h">
+      <Filter>Header Files\ConsoleUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionSelector.h">
+      <Filter>Header Files\ControllerUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="HScoresView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="HScoreFileManager.h">
+      <Filter>Header Files\ControllerUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="GameView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="Alphabet.h">
+      <Filter>Header Files\ControllerUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="WordGetter.h">
+      <Filter>Header Files\ControllerUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="WordHandler.h">
+      <Filter>Header Files\ControllerUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Scores.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

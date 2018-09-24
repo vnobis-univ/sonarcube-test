@@ -1,0 +1,37 @@
+HangMan	ШИБЕНИЦЯ
+START	РОЗПОЧАТИ ГРУ
+HIGHSCORES	РЕКОРДИ
+OPTIONS	ОПЦІЇ
+EXIT	ВИЙТИ
+Player	Гравець
+Score	Очки
+Difficulty	Складність
+Letters	Букви
+DIFFICULTY  	 СКЛАДНІСТЬ    
+Easy	НИЗЬКА
+Medium	СЕРЕДНЯ
+Hard	ВИСОКА
+LANGUAGE  	МОВА    
+English	АНГЛІЙСЬКА
+Ukrainian	УКРАЇНСЬКА
+Press ESC to back	НАЖМІТЬ ESC ЩОБ ПОВЕРНУТИСЬ НАЗАД
+Score:	БАЛИ:
+Lives:	Життя:
+Letters:	БУКВИ:
+Used Letters:	ВЖИТІ ЛІТЕРИ:
+You won!	ВИ ВИГРАЛИ
+You lost!	ВИ ПРОГРАЛИ!
+Your score:	ВИ НАБРАЛИ:
+Enter your name:	Введіть своє ім'я: 
+Your score is high enough	Ви набрали достатньо балів
+Your score is not high enough	Ви не набрали достатньо балів
+Press enter to continue	НАЖМІТЬ enter ЩОБ ПРОДОВЖИТИ
+Input your answer:	Введіть свою відповідь:
+Game over	Гра закінчена
+You nicked it	Ви вгадали задане слово  
+Congratulations	Вітання
+You have achieved maximum score for this level	Ви досягли максимально можливого результату на цьому рівні складності
+Press ESC to finish the game	Нажміть ESC, щоб завершити гру
+Press ENTER to start new game on higher level or ESC to finish the game	Нажміть ENTER щоб почати гру на вищому рівні складності або ESC, щоб вийти
+
+

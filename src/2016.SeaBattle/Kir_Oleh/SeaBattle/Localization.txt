@@ -1,0 +1,47 @@
+SeaBattle	Морський бій
+Ships located	К-сть розмішених кораблів
+Press H/V (eng) to make ship horizontal/vertical	Нажміть H/V (eng), щоб змінити положення корабля на гориз/верт
+SinglePlayer Mode	Гра з комп'ютером
+MultiPlayer  Mode	Гра по мережі
+Create room	Створити лобі
+Join room	Приєднатися до лобі
+@All rights reserved	@ВСІ ПРАВА ЗАХИЩЕНІ
+START	РОЗПОЧАТИ ГРУ
+HIGHSCORE TABLE	ТАБЛИЦЯ РЕЗУЛЬТАТІВ
+OPTIONS	ОПЦІЇ
+EXIT	ВИЙТИ
+Player	Гравець
+Score	Бали
+Difficulty	Складність
+Letters	К-сть Букв
+DIFFICULTY  	 СКЛАДНІСТЬ    
+Easy	НИЗЬКА
+Medium	СЕРЕДНЯ
+Hard	ВИСОКА
+LANGUAGE  	МОВА    
+English	АНГЛІЙСЬКА
+Ukrainian	УКРАЇНСЬКА
+Press ESC to back	НАЖМІТЬ ESC ЩОБ ПОВЕРНУТИСЬ НАЗАД
+You won, press enter to continue...	Ви виграли, натисніть enter, щоб продовжити...
+You lost, press enter to exit...	Ви програли, натисніть enter, щоб вийти...
+You or your enemy refused to continue game, press enter to exit...	Ви або ваш супротивник вийшли з гри, натисніть enter, щоб закінчити гру
+Your score is:	ВИ НАБРАЛИ:
+Input your name now:	Введіть своє ім'я: 
+Your score is high enough	Ви набрали достатньо балів
+Your score is not high enough	Ви не набрали достатньо балів
+Press enter to continue	НАЖМІТЬ enter ЩОБ ПРОДОВЖИТИ
+Enemy ships destroyed:	Ворожих кораблів знищено: 
+Your ships alive:	К-сть ваших кораблів: 
+SEX   	СТАТЬ   
+Male	ЧОЛОВІЧА
+Female	ЖІНОЧА
+Sex	Стать
+Your room id is:	ID створеного лобі: 
+Please, wait another player to join	Будь ласка, почекайте поки інший гравець приєднається
+Input room id, please:	Введіть ID лобі:
+Another player succesfully joined	Інший гравець приєднався до лобі
+You succesfully joined	Ви приєдналися до лобі, натисніть ентер
+Your enemies turn now, please wait	Хід вашого супротивника, зачекайте, будь ласка
+Your turn now...	       Ваш хід тепер       
+Something went wrong...	Щось пішло не так...
+Press enter to return to main menu	Натисніть enter, щоб повернутись до головного меню

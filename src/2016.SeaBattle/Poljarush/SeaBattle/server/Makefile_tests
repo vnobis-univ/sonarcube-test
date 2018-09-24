@@ -1,0 +1,6 @@
+tests: tests.o user_commands.o
+	gcc tests.o user_commands.o -o tests
+tests.o: tests.c tests.h user_commands.h
+	gcc -c tests.c
+user_commands.o: user_commands.c user_commands.h
+	gcc -c user_commands.c 

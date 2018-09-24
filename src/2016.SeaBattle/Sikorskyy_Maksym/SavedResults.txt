@@ -1,0 +1,5 @@
+NumbaOne	1680
+- - -	9
+NoName	6
+Newbie	3
+PlaceForYou	0

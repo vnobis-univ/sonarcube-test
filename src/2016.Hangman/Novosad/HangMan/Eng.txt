@@ -1,0 +1,20 @@
+Start game
+Highscores
+Hangman
+Exit
+Congratulations!
+You've achieved highscore!
+Please, enter your name
+(not more than 8 symbols)
+Sorry, you lost:(
+Please, try again
+Score
+Letters
+Name
+Level
+Easy
+Middle
+Hard
+Tries
+Press ESC to exit
+Press whitespace to change language to Ukr

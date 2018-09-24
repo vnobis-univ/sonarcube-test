@@ -1,0 +1,5 @@
+someNameHere	20 7 Hard	Male
+Біг Баг Біг	5 1 Hard	Male
+soonish	2 0 Hard	Male
+Player2	1 5 Hard	Female
+Player3	1 4 Hard	Male

@@ -1,0 +1,10 @@
+player1 8
+player2 4
+player3 19
+palyer4 10
+player5 8
+player6 4
+player7 1
+palyer8 1
+player9 1
+palyer10 1

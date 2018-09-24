@@ -1,0 +1,176 @@
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Chytailo_Maks'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-lE1GO5'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 2 temp files were removed
+#    dirToHandle: '/tmp/tempdir-Hpt0eQ'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Chytailo_Maks'
+# Last changed dir is '/tmp/tempdir-Hpt0eQ'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Chytailo_Maks'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Marych'
+#------------------------------
+#    Processed by 'archiveZipCleaner'
+#    Source folder contains ZIP archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-PuVOHA'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-hl2Zml'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 29 temp files were removed
+#    dirToHandle: '/tmp/tempdir-tLXP65'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Marych'
+# Last changed dir is '/tmp/tempdir-tLXP65'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Marych'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Гоца'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-3L0cTQ'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 1 temp files were removed
+#    dirToHandle: '/tmp/tempdir-Qi6BLB'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Гоца'
+# Last changed dir is '/tmp/tempdir-Qi6BLB'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Гоца'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Кір'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-v4i8Fm'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-FNwVE7'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Кір'
+# Last changed dir is '/tmp/tempdir-FNwVE7'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Кір'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Новосад'
+#------------------------------
+#    Processed by 'archiveZipCleaner'
+#    Source folder contains ZIP archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-oCWJHS'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-IW3IMD'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 1 temp files were removed
+#    dirToHandle: '/tmp/tempdir-C88RUo'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Новосад'
+# Last changed dir is '/tmp/tempdir-C88RUo'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Новосад'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Пастущак'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-gPNo69'
+#------------------------------
+#    Processed by 'txtExtensionCleaner'
+#    Source folder contains C++ project files with .txt extension, 12 files were fixed
+#    dirToHandle: '/tmp/tempdir-aJDwiV'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-W9aFvG'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Пастущак'
+# Last changed dir is '/tmp/tempdir-W9aFvG'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Пастущак'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Солина'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-aeZfKr'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 2 temp files were removed
+#    dirToHandle: '/tmp/tempdir-PmI06c'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Солина'
+# Last changed dir is '/tmp/tempdir-PmI06c'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Солина'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Стецький'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-5XqFvY'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 2 temp files were removed
+#    dirToHandle: '/tmp/tempdir-eZDjVJ'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Стецький'
+# Last changed dir is '/tmp/tempdir-eZDjVJ'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Стецький'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Сушко'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-JVkUmv'
+#------------------------------
+#    Processed by 'repositoryGitCleaner'
+#    Source folder contains git data, '.git' folders were removed
+#    dirToHandle: '/tmp/tempdir-Mz1rCh'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Сушко'
+# Last changed dir is '/tmp/tempdir-Mz1rCh'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Сушко'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Сікорський'
+#------------------------------
+#    Processed by 'archiveZipCleaner'
+#    Source folder contains ZIP archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-qQMoV3'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-R3RRgQ'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Сікорський'
+# Last changed dir is '/tmp/tempdir-R3RRgQ'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Сікорський'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Шпак'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-W4dlFC'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-EB0Ivp'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 37 temp files were removed
+#    dirToHandle: '/tmp/tempdir-6vYjuc'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/Шпак'
+# Last changed dir is '/tmp/tempdir-6vYjuc'
+# Final destination is '/home/npc/test_SeaBattle_new_2/Шпак'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/ЩУР'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-MpSNwZ'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-nUv2eO'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 29 temp files were removed
+#    dirToHandle: '/tmp/tempdir-2fvSgD'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/2016.SeaBattle/ЩУР'
+# Last changed dir is '/tmp/tempdir-2fvSgD'
+# Final destination is '/home/npc/test_SeaBattle_new_2/ЩУР'

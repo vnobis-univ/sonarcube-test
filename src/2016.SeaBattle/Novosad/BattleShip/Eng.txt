@@ -1,0 +1,32 @@
+Single Player
+Multiplayer
+Highscores
+Ship Battle
+Exit
+Congratulations!
+You've achieved highscore!
+Please, enter your name
+(not more than 8 symbols)
+Sorry, you lost:(
+Please, try again
+Score
+Name
+Press ESC to exit
+Press whitespace to change language to Ukr
+My field
+Enemy's field
+Start Game
+Join Game
+You've started a new game!
+Room id: 
+Please give this id to your friend
+* Press Enter to continue... *
+You're joining the game!
+Please ask your friend for room id
+Enter room id: 
+Please enter a valid room id!
+A B C D E F G H I J
+Your turn
+Enemy turn
+Game over. Press enter to continue
+Waiting for another player

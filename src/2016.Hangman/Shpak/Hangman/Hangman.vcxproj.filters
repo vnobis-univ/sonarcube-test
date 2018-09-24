@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\words">
+      <UniqueIdentifier>{617f9930-2fa7-4fee-9f5b-0760a7a07953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\highscores">
+      <UniqueIdentifier>{cae0c8f0-dd29-412e-85da-187966dfb0a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Manipulators">
+      <UniqueIdentifier>{9f628cd5-0b03-435c-8d32-70d4efe25736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\View">
+      <UniqueIdentifier>{e3546494-21c3-4253-8433-83744ad65bbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{30243a7c-d1fc-494e-9b41-8be70838dfce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manipulators">
+      <UniqueIdentifier>{31c5736b-410a-4139-9dad-72b1d8ad94dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\View">
+      <UniqueIdentifier>{c4cd5038-f81b-42d6-953e-9ee61130e76d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{d2e9a09d-4085-41a2-84d2-652beb78b2a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleManipulators.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="FilesManipulator.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="LanguageManipulator.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="LettersManipulator.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="Navigation.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="Printer.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="WordsManipulator.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="GameView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="GreetingView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="HighscoresView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="HangmanPicture.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConsoleManipulators.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="FilesManipulator.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="LanguageManipulator.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="LettersManipulator.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="WordsManipulator.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultView.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsView.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuView.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="HighscoresView.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="GreetingView.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="GameView.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Navigation.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="Printer.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="HangmanPicture.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="logo.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="wordsEnglishEasy.txt">
+      <Filter>Resource Files\words</Filter>
+    </Text>
+    <Text Include="wordsUkranianEasy.txt">
+      <Filter>Resource Files\words</Filter>
+    </Text>
+    <Text Include="wordsEnglishHard.txt">
+      <Filter>Resource Files\words</Filter>
+    </Text>
+    <Text Include="wordsEnglishMedium.txt">
+      <Filter>Resource Files\words</Filter>
+    </Text>
+    <Text Include="wordsUkranianHard.txt">
+      <Filter>Resource Files\words</Filter>
+    </Text>
+    <Text Include="wordsUkranianMedium.txt">
+      <Filter>Resource Files\words</Filter>
+    </Text>
+    <Text Include="highscoresUkranianEasy.txt">
+      <Filter>Resource Files\highscores</Filter>
+    </Text>
+    <Text Include="highscoresUkranianMedium.txt">
+      <Filter>Resource Files\highscores</Filter>
+    </Text>
+    <Text Include="highscoresUkranianHard.txt">
+      <Filter>Resource Files\highscores</Filter>
+    </Text>
+    <Text Include="highscoresEnglishEasy.txt">
+      <Filter>Resource Files\highscores</Filter>
+    </Text>
+    <Text Include="highscoresEnglishMedium.txt">
+      <Filter>Resource Files\highscores</Filter>
+    </Text>
+    <Text Include="highscoresEnglishHard.txt">
+      <Filter>Resource Files\highscores</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

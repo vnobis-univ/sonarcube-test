@@ -1,0 +1,7 @@
+Andriy 126 6
+Pavlo 6 6
+Petro 4 4
+Anatoliy 4 4
+Anton 3 3
+Anton 1 1
+Petro 0 3

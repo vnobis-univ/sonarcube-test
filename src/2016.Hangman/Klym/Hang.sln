@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hang", "Hang\Hang.vcxproj", "{06323CDB-B69A-4773-84C9-17B16100483E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06323CDB-B69A-4773-84C9-17B16100483E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06323CDB-B69A-4773-84C9-17B16100483E}.Debug|Win32.Build.0 = Debug|Win32
+		{06323CDB-B69A-4773-84C9-17B16100483E}.Release|Win32.ActiveCfg = Release|Win32
+		{06323CDB-B69A-4773-84C9-17B16100483E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

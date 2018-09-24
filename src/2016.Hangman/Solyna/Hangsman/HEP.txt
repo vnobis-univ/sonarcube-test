@@ -1,0 +1,7 @@
+nedstark 4 5
+melany 4 2
+dumbledore 3 6
+Achka 3 4
+birdy 3 3
+ben 2 5
+Slave 2 4

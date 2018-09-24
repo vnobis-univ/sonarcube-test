@@ -1,0 +1,6 @@
+User2   14
+User1   9
+GGGG   3
+User3   2
+HHHH   2
+RRRR   1

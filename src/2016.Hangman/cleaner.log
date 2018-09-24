@@ -1,0 +1,223 @@
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Chytailo_Maks'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-22K9Nz'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-twPt8y'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 25 temp files were removed
+#    dirToHandle: '/tmp/tempdir-OGj4Gy'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Chytailo_Maks'
+# Last changed dir is '/tmp/tempdir-OGj4Gy'
+# Final destination is '/home/npc/test_Hangman_new/Chytailo_Maks'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Kir_Oleh'
+#------------------------------
+#    Processed by 'archiveZipCleaner'
+#    Source folder contains ZIP archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-yHAhiy'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Kir_Oleh'
+# Last changed dir is '/tmp/tempdir-yHAhiy'
+# Final destination is '/home/npc/test_Hangman_new/Kir_Oleh'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Marych'
+#------------------------------
+#    Processed by 'archiveZipCleaner'
+#    Source folder contains ZIP archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-nuKWYx'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-WVroRx'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 34 temp files were removed
+#    dirToHandle: '/tmp/tempdir-9YTKOx'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Marych'
+# Last changed dir is '/tmp/tempdir-9YTKOx'
+# Final destination is '/home/npc/test_Hangman_new/Marych'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Sikorskyy_Maksym'
+#------------------------------
+#    Processed by 'txtExtensionCleaner'
+#    Source folder contains C++ project files with .txt extension, 20 files were fixed
+#    dirToHandle: '/tmp/tempdir-EymNOx'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-DHjsQx'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Sikorskyy_Maksym'
+# Last changed dir is '/tmp/tempdir-DHjsQx'
+# Final destination is '/home/npc/test_Hangman_new/Sikorskyy_Maksym'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Горлата'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-DuxJUx'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 1 temp files were removed
+#    dirToHandle: '/tmp/tempdir-FpRA0x'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Горлата'
+# Last changed dir is '/tmp/tempdir-FpRA0x'
+# Final destination is '/home/npc/test_Hangman_new/Горлата'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Гоца'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-5ugJ9x'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-1dpLny'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 27 temp files were removed
+#    dirToHandle: '/tmp/tempdir-AdmjHy'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Гоца'
+# Last changed dir is '/tmp/tempdir-AdmjHy'
+# Final destination is '/home/npc/test_Hangman_new/Гоца'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Кацадзе'
+#------------------------------
+#    Processed by 'archive7zCleaner'
+#    Source folder contains 7Z archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-XhGP5y'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-J8Yg1B'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 31 temp files were removed
+#    dirToHandle: '/tmp/tempdir-azpnaF'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Кацадзе'
+# Last changed dir is '/tmp/tempdir-azpnaF'
+# Final destination is '/home/npc/test_Hangman_new/Кацадзе'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Новосад'
+#------------------------------
+#    Processed by 'archiveZipCleaner'
+#    Source folder contains ZIP archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-ac4blI'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-YupzyL'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 1 temp files were removed
+#    dirToHandle: '/tmp/tempdir-bxzqNO'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Новосад'
+# Last changed dir is '/tmp/tempdir-bxzqNO'
+# Final destination is '/home/npc/test_Hangman_new/Новосад'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Пастущак'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-ICxg5R'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-yPmKnV'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Пастущак'
+# Last changed dir is '/tmp/tempdir-yPmKnV'
+# Final destination is '/home/npc/test_Hangman_new/Пастущак'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Солина'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-unkPHY'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 6 temp files were removed
+#    dirToHandle: '/tmp/tempdir-mPxAk2'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Солина'
+# Last changed dir is '/tmp/tempdir-mPxAk2'
+# Final destination is '/home/npc/test_Hangman_new/Солина'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Стецький'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-ql1xZ5'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 1 temp files were removed
+#    dirToHandle: '/tmp/tempdir-Y2snF9'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-Fslbmd'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Стецький'
+# Last changed dir is '/tmp/tempdir-Fslbmd'
+# Final destination is '/home/npc/test_Hangman_new/Стецький'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Сушко'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-nG9V4g'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 4 temp files were removed
+#    dirToHandle: '/tmp/tempdir-OMngsl'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Сушко'
+# Last changed dir is '/tmp/tempdir-OMngsl'
+# Final destination is '/home/npc/test_Hangman_new/Сушко'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Твердоух'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-urIXRp'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 20 temp files were removed
+#    dirToHandle: '/tmp/tempdir-gQEqsu'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Твердоух'
+# Last changed dir is '/tmp/tempdir-gQEqsu'
+# Final destination is '/home/npc/test_Hangman_new/Твердоух'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Шпак'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-2Mwf4y'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-kmFJ0D'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 60 temp files were removed
+#    dirToHandle: '/tmp/tempdir-yBma5I'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/Шпак'
+# Last changed dir is '/tmp/tempdir-yBma5I'
+# Final destination is '/home/npc/test_Hangman_new/Шпак'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/ЩУР'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-ceJWcO'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-C3PkpU'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 27 temp files were removed
+#    dirToHandle: '/tmp/tempdir-QDHFP0'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/Hangman/ЩУР'
+# Last changed dir is '/tmp/tempdir-QDHFP0'
+# Final destination is '/home/npc/test_Hangman_new/ЩУР'

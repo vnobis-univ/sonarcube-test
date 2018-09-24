@@ -1,0 +1,10 @@
+HangMan 80 Hard
+ManFromSky>) 60 Hard
+James 45 Hard
+Anton 40 Medium
+George 32 Medium
+Adolf 24 Hard
+Ilia 18 Medium
+Jacob 10 Medium
+Trevis 7 Easy
+Max 5 Easy

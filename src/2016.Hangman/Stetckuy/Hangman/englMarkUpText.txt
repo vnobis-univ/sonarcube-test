@@ -1,0 +1,23 @@
+WELCOME TO HANGMAN
+Guess all words and save your friend from gallows!
+Enter your friend's name: 
+INSERT A SYMBOL: 
+Used letters: 
+HIGH SCORES
+Name:            Score:   Letters: Language:      Level:    
+English        
+Ukrainian      
+Easy     
+Medium   
+Hard      
+Language:
+Difficulty:
+Your friend is grateful to you!
+You lost your friend. Try again, they don't mind:)
+GAME OVER
+Enter your name: 
+Your result was added to our database
+Press any key to continue
+Life: 
+Score: 
+Guessed letters: 

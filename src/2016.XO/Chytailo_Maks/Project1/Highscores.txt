@@ -1,0 +1,4 @@
+name1 8
+name2 6
+name3 3
+name4 1

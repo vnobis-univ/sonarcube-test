@@ -1,0 +1,44 @@
+WELCOME TO SEA BATTLE!
+Hit all enemies and save your country from marine invasion!
+START GAME
+OPTIONS
+HIGH SCORES
+EXIT
+GAME OVER
+Language:
+English
+Ukrainian
+Game mode:
+Computer
+Multiplayer
+Back to menu
+Start game
+Press any key to continue...
+Name             Score    Cells    Mode        
+Life:
+Score:
+Hit cells:
+YOU
+ENEMY
+Choose your multiplayer mode:
+JOIN
+CREATE
+Enter ID: 
+Your ID: 
+Connection complete
+Something went wrong
+Game status: 
+Prepare to game...
+Waiting for enemy action...
+Your turn
+Enemy turn
+missed
+hit
+killed
+Glorious victory!
+Defeat
+Your nation is safe!
+You failed. Try again!
+Your result was added to database
+Change ship direction - Space
+Quit game - ESC

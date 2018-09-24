@@ -1,0 +1,7 @@
+sheldon 5 4
+james 5 2
+Andriichyk 4 5
+YourMaster 4 3
+lily 4 3
+johnsnow 4 2
+SuperMan 3 3

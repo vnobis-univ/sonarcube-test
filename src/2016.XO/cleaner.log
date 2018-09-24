@@ -1,0 +1,241 @@
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Chytailo_Maks'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-ZUZth7'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 18 temp files were removed
+#    dirToHandle: '/tmp/tempdir-tChXqL'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Chytailo_Maks'
+# Last changed dir is '/tmp/tempdir-tChXqL'
+# Final destination is '/home/npc/test_XO_new/Chytailo_Maks'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Gorlata_Sofia '
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-FK93Bp'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-vPfDO3'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Gorlata_Sofia '
+# Last changed dir is '/tmp/tempdir-vPfDO3'
+# Final destination is '/home/npc/test_XO_new/Gorlata_Sofia '
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Hotsa_Anna'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-J4l02H'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 49 temp files were removed
+#    dirToHandle: '/tmp/tempdir-5d6qlm'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Hotsa_Anna'
+# Last changed dir is '/tmp/tempdir-5d6qlm'
+# Final destination is '/home/npc/test_XO_new/Hotsa_Anna'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Karas_Roman'
+#------------------------------
+#    Processed by 'archiveRarCleaner'
+#    Source folder contains RAR archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-OyFQF0'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 18 temp files were removed
+#    dirToHandle: '/tmp/tempdir-9cbO8E'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Karas_Roman'
+# Last changed dir is '/tmp/tempdir-9cbO8E'
+# Final destination is '/home/npc/test_XO_new/Karas_Roman'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Katsadze_Irakliy'
+#------------------------------
+#    Processed by 'archive7zCleaner'
+#    Source folder contains 7Z archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-bH23Ej'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-L7djzY'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 29 temp files were removed
+#    dirToHandle: '/tmp/tempdir-N069HD'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Katsadze_Irakliy'
+# Last changed dir is '/tmp/tempdir-N069HD'
+# Final destination is '/home/npc/test_XO_new/Katsadze_Irakliy'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Kir_Oleh'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-DJPjUi'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 28 temp files were removed
+#    dirToHandle: '/tmp/tempdir-tM1qhY'
+#------------------------------
+#    Processed by 'txtExtensionCleaner'
+#    Source folder contains C++ project files with .txt extension, 2 files were fixed
+#    dirToHandle: '/tmp/tempdir-so3bFD'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Kir_Oleh'
+# Last changed dir is '/tmp/tempdir-so3bFD'
+# Final destination is '/home/npc/test_XO_new/Kir_Oleh'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Klym_Andriy'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-EgS93i'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 129 temp files were removed
+#    dirToHandle: '/tmp/tempdir-JPIWEY'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Klym_Andriy'
+# Last changed dir is '/tmp/tempdir-JPIWEY'
+# Final destination is '/home/npc/test_XO_new/Klym_Andriy'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Marych_Oleh'
+#------------------------------
+#    Processed by 'archiveZipCleaner'
+#    Source folder contains ZIP archive, files were extracted
+#    dirToHandle: '/tmp/tempdir-zUujhE'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-EAVW2j'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 21 temp files were removed
+#    dirToHandle: '/tmp/tempdir-26aBQZ'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Marych_Oleh'
+# Last changed dir is '/tmp/tempdir-26aBQZ'
+# Final destination is '/home/npc/test_XO_new/Marych_Oleh'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Novosad_Maria'
+#------------------------------
+#    Processed by 'txtExtensionCleaner'
+#    Source folder contains C++ project files with .txt extension, 12 files were fixed
+#    dirToHandle: '/tmp/tempdir-uzl0FF'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-WdK0vl'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Novosad_Maria'
+# Last changed dir is '/tmp/tempdir-WdK0vl'
+# Final destination is '/home/npc/test_XO_new/Novosad_Maria'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Pastuschak_Bohdan'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-Nf7Wn1'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Pastuschak_Bohdan'
+# Last changed dir is '/tmp/tempdir-Nf7Wn1'
+# Final destination is '/home/npc/test_XO_new/Pastuschak_Bohdan'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Shchur_Bogdan'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-ZLwHgH'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-ZVRRkn'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 26 temp files were removed
+#    dirToHandle: '/tmp/tempdir-r1RoA3'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Shchur_Bogdan'
+# Last changed dir is '/tmp/tempdir-r1RoA3'
+# Final destination is '/home/npc/test_XO_new/Shchur_Bogdan'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Shpak_Andriy'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-H5DtRJ'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 51 temp files were removed
+#    dirToHandle: '/tmp/tempdir-u9wBnq'
+#------------------------------
+#    Processed by 'txtExtensionCleaner'
+#    Source folder contains C++ project files with .txt extension, 20 files were fixed
+#    dirToHandle: '/tmp/tempdir-BLQKU6'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Shpak_Andriy'
+# Last changed dir is '/tmp/tempdir-BLQKU6'
+# Final destination is '/home/npc/test_XO_new/Shpak_Andriy'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Sikorskyy_Maxim'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-UH36sN'
+#------------------------------
+#    Processed by 'missingProjectCleaner'
+#    Source folder contains C++ source files, but Visual Studio files are missing. VS project was generated
+#    dirToHandle: '/tmp/tempdir-NwdX1t'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Sikorskyy_Maxim'
+# Last changed dir is '/tmp/tempdir-NwdX1t'
+# Final destination is '/home/npc/test_XO_new/Sikorskyy_Maxim'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Solyna_Andriana'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-D43TBa'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 28 temp files were removed
+#    dirToHandle: '/tmp/tempdir-pxookR'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Solyna_Andriana'
+# Last changed dir is '/tmp/tempdir-pxookR'
+# Final destination is '/home/npc/test_XO_new/Solyna_Andriana'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Stetskyi_Yuriy'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-Rn5Z3x'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 39 temp files were removed
+#    dirToHandle: '/tmp/tempdir-NMDcTe'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Stetskyi_Yuriy'
+# Last changed dir is '/tmp/tempdir-NMDcTe'
+# Final destination is '/home/npc/test_XO_new/Stetskyi_Yuriy'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Sushko_Andriy'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-1Ph8JV'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 32 temp files were removed
+#    dirToHandle: '/tmp/tempdir-JCFJNC'
+#------------------------------
+#    Processed by 'txtExtensionCleaner'
+#    Source folder contains C++ project files with .txt extension, 1 files were fixed
+#    dirToHandle: '/tmp/tempdir-B9qqSj'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Sushko_Andriy'
+# Last changed dir is '/tmp/tempdir-B9qqSj'
+# Final destination is '/home/npc/test_XO_new/Sushko_Andriy'
+#################
+# Started processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Tverdoukh_Bohdan'
+#------------------------------
+#    Processed by 'justOneFolderCleaner'
+#    Source folder contains just one folder, its content was copied to new destination
+#    dirToHandle: '/tmp/tempdir-aUbKY0'
+#------------------------------
+#    Processed by 'cppProjectCleaner'
+#    Source folder contains C++ project with temp files, 26 temp files were removed
+#    dirToHandle: '/tmp/tempdir-c56rfI'
+# Finished processing of source dir '/home/npc/university/analytics_data/learning_practice/XO/Tverdoukh_Bohdan'
+# Last changed dir is '/tmp/tempdir-c56rfI'
+# Final destination is '/home/npc/test_XO_new/Tverdoukh_Bohdan'

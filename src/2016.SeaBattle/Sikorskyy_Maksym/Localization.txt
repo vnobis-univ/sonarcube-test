@@ -1,0 +1,34 @@
+Sea Battle	Морський бій
+Ships located	Розміщені кораблі:
+Press Esc to turn the ship	Натисніть Esc, щоб повернути корабель
+Singleplayer	Гра з комп'ютером
+Multiplayer	Гра по мережі
+Create room	Створити кімнату
+Join room	Приєднатися до кімнати
+START	РОЗПОЧАТИ ГРУ
+HIGHSCORES	РЕКОРДИ
+OPTIONS	ОПЦІЇ
+EXIT	ВИЙТИ
+Player	Гравець
+Score	Бали
+LANGUAGE  	МОВА    
+English	АНГЛІЙСЬКА
+Ukrainian	УКРАЇНСЬКА
+Press ESC to back	НАЖМІТЬ ESC ЩОБ ПОВЕРНУТИСЬ НАЗАД
+You won, press enter to continue...	Ви виграли, натисніть enter, щоб продовжити...
+You lost, press enter to exit...	Ви програли, натисніть enter, щоб вийти...
+Someone refused to continue game, press enter to exit...	Хтось вийшов з гри, натисніть enter, щоб закінчити гру
+Your score is:	ВИ НАБРАЛИ:
+Input your name now:	Введіть своє ім'я: 
+Your score is high enough	Ви набрали достатньо балів
+Your score is not high enough	Ви не набрали достатньо балів
+Press enter to continue	Натисніть ENTER щоб продовжити
+Enemy ships destroyed:	Ворожих кораблів знищено: 
+Your ships destroyed:	Ваших кораблів знищено: 
+Your room id is:	ID створеного лобі: 
+Please, wait another player to join	Будь ласка, почекайте поки інший гравець приєднається
+Input room id, please:	Введіть ID лобі:
+Another player succesfully joined, press enter to start game	Інший гравець приєднався до лобі, натисніть ентер, щоб розпочати гру
+You succesfully joined, press enter to start game	Ви приєдналися до лобі, натисніть ентер, щоб розпочати гру
+Your enemies turn now, please wait	Хід вашого супротивника, зачекайте будь ласка
+Your turn...	Ваш хід

@@ -1,0 +1,9 @@
+sdf  16
+dsfsdf 14
+Player2 13
+Snow 11
+Player1 10
+Player4 9
+Lannister 7
+Court 5
+Player3 4

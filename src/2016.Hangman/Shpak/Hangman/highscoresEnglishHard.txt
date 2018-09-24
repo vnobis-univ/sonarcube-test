@@ -1,0 +1,7 @@
+Andriy 6 1
+Pavlo 6 0
+Petro 4 2
+Anatoliy 4 1
+Anton 3 0
+Philip 2 0
+Gohn 0 0

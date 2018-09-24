@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Views">
+      <UniqueIdentifier>{d2ec1718-2b24-431d-83fd-3b7c4be17fe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Manipulators">
+      <UniqueIdentifier>{e7b51a05-ee11-40c6-9793-38024208c83b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{6d34cdde-adf5-4b2c-a67c-1cd2c0b4e114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manipulators">
+      <UniqueIdentifier>{ce8c1c51-454b-4e20-86ab-902ea8f59a66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Views">
+      <UniqueIdentifier>{4558cc39-d4c4-4db0-ae56-1cb43bfa5a36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{b301fc98-a35f-46ec-8cd6-13de0c595a94}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleManipulators.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="FilesManipulator.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="LanguageManipulator.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="Navigation.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="Printer.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerManipulator.cpp">
+      <Filter>Source Files\Manipulators</Filter>
+    </ClCompile>
+    <ClCompile Include="ChooseGameView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="GameView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="GreetingView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="HighscoresView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultView.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>Source Files\Views</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMessages.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogicOnline.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogicComputer.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameField.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MenuView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="GreetingView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="GameView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ChooseGameView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="HighscoresView.h">
+      <Filter>Header Files\Views</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerManipulator.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="Printer.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="Navigation.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="LanguageManipulator.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="FilesManipulator.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleManipulators.h">
+      <Filter>Header Files\Manipulators</Filter>
+    </ClInclude>
+    <ClInclude Include="GameField.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogic.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogicComputer.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogicOnline.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMessages.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="highscoresEnglishEasy.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="highscoresEnglishHard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="highscoresUkranianEasy.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="highscoresUkranianHard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="logo.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="field.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

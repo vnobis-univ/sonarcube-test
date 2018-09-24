@@ -1,0 +1,7 @@
+Genius 40 0
+JohnSnow 23 1
+mary 9 3
+khaleesi 6 3
+qwertyuiopas 5 3
+NightPlayer 5 2
+khal 4 3

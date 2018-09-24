@@ -1,0 +1,13 @@
+H HelloWorld 5
+H Matviy 3
+H Gerasim 1
+H gogogo 1
+
+N Bodya 4
+N Pavel 2
+N null 1
+
+E Kate 5
+E nub 3
+E nnnnn 1
+
